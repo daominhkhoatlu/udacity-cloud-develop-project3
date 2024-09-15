@@ -1,3 +1,6 @@
+branches:
+  only:
+    - khoadm3-partII
 language: node_js
 node_js:
   - 16
